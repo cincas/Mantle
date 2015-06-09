@@ -25,3 +25,4 @@ FOUNDATION_EXPORT const unsigned char MantleVersionString[];
 #import <Mantle/NSObject+MTLComparisonAdditions.h>
 #import <Mantle/NSValueTransformer+MTLInversionAdditions.h>
 #import <Mantle/NSValueTransformer+MTLPredefinedTransformerAdditions.h>
+#import <Mantle/MTLManagedObjectAdapter.h>
